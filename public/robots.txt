@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /api/hate
+
+# If you are looking for the salt...
+# SALT="Troy_Fallen_123"
