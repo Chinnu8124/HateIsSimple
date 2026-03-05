@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# challenge - do not commit solution or notes
+SOLUTION.md
+implementation.txt
+
+# python
+__pycache__/
+*.pyc
+*.pyo
