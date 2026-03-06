@@ -5,7 +5,7 @@
 ## Description
 You thought the last challenge was hard? It turns out love is complicated, but hate... hate is terrifyingly simple. It's the execution that kills you. We found this strange portal on the edge of the network. It just sits there, asking for a reason to exist. Can you bypass its defenses and extract the secrets hidden within its memory?
 
-**Flag Format:** `HATE{...}`
+**Flag Format:** `BPCTF{...}`
 
 ## Setup Instructions
 
